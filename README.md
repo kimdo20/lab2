@@ -2,5 +2,5 @@
 <li>Donna Kim
 <li>
 <li>2022
-<li>
+<li>Project sub-area: Thousand Parsec
 </ul>
